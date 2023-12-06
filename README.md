@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Marco Barroso
 
-<!--
-**Marcant97/Marcant97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido/a a mi perfil de GitHub! Soy un/a estudiante del Grado en Ingeniería Informática en la Universidad de La Laguna.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Marcant97&show_icons=true&theme=radical)
+
+## Contacto
+
+¡Hablemos! Puedes encontrarme en:
+
+- LinkedIn: [Marco Barroso]([url](https://es.linkedin.com/in/marco-antonio-barroso-hormiga-187647238)https://es.linkedin.com/in/marco-antonio-barroso-hormiga-187647238)
+- Correo Electrónico: alu0101386560@ull.edu.es
+
