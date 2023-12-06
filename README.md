@@ -11,6 +11,6 @@
 
 ¡Hablemos! Puedes encontrarme en:
 
-- LinkedIn: [Marco Barroso]([url](https://es.linkedin.com/in/marco-antonio-barroso-hormiga-187647238)https://es.linkedin.com/in/marco-antonio-barroso-hormiga-187647238)
+- LinkedIn: [Marco Barroso](https://es.linkedin.com/in/marco-antonio-barroso-hormiga-187647238)
 - Correo Electrónico: alu0101386560@ull.edu.es
 
