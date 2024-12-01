@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Marco Barroso
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un estudiante del Grado en Ingeniería Informática en la Universidad de La Laguna.
+¡Bienvenido/a a mi perfil de GitHub!
 
 
 ## Estadísticas de GitHub
